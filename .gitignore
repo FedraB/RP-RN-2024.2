@@ -1,4 +1,1 @@
-venv/
-pyvenv/
-*.pyc
-__pycache__/
+rec_pa/
