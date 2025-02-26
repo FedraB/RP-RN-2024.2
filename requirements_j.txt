@@ -10,3 +10,4 @@ scikit-image
 numba
 umap-learn
 keras
+scikit-posthocs
